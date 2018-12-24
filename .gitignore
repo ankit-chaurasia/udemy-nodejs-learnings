@@ -2,3 +2,4 @@ node_modules
 package-lock.json
 mongo-data
 config.json
+Redis-x64-3.2.100
